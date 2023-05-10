@@ -2,7 +2,7 @@ Steps to run each of iSWAP configirations -
 
 
 To induce deadlock with Random oblvious routing in Interposer -
-1. Set iSWAP_enable variable to 1 in RoutingUnit.cc
+1. Set iSWAP_enable variable to 1 in ./src/mem/ruby/network/garnet2.0/RoutingUnit.cc
 2. Run ./my_scripts/build_Garnet_standalone.sh
 3. source run_cmd_swap_disable.sh bash file
 4. Deadlock will be detected.
