@@ -1,7 +1,7 @@
 # ISWAP
 Interposer SWAP to avoid deadlocks in heterogenous NoCs
 
-Please download gem5 "src" and "test" directories separately: https://www.gem5.org/getting_started/ 
+Please download gem5 "src", "ext",  and "test" directories separately: https://www.gem5.org/getting_started/ 
 
 On top of the vanilla gem5, please overwrite the files from this repository
 
